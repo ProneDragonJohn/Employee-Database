@@ -1,0 +1,15 @@
+C:\Users\John\source\repos\TermProject\bin\Debug\EmpData.mdf
+C:\Users\John\source\repos\TermProject\bin\Debug\EmpData_log.ldf
+C:\Users\John\source\repos\TermProject\bin\Debug\TermProject.exe.config
+C:\Users\John\source\repos\TermProject\bin\Debug\TermProject.exe
+C:\Users\John\source\repos\TermProject\bin\Debug\TermProject.pdb
+C:\Users\John\source\repos\TermProject\obj\Debug\TermProject.csprojAssemblyReference.cache
+C:\Users\John\source\repos\TermProject\obj\Debug\TermProject.fmAbout.resources
+C:\Users\John\source\repos\TermProject\obj\Debug\TermProject.fmMain.resources
+C:\Users\John\source\repos\TermProject\obj\Debug\TermProject.Properties.Resources.resources
+C:\Users\John\source\repos\TermProject\obj\Debug\TermProject.csproj.GenerateResource.cache
+C:\Users\John\source\repos\TermProject\obj\Debug\TermProject.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\TermProject\obj\Debug\TermProject.exe
+C:\Users\John\source\repos\TermProject\obj\Debug\TermProject.pdb
+C:\Users\John\source\repos\TermProject\obj\Debug\TermProject.fmPromptBonus.resources
+C:\Users\John\source\repos\TermProject\obj\Debug\TermProject.fmPromptHours.resources

@@ -1,0 +1,6 @@
+EmpId=1001, FirstName=Lucas, LastName=Loffman, Pay=$8,583.33
+EmpId=1002, FirstName=Jerry, LastName=Jones, Pay=$9,350.00
+EmpId=1003, FirstName=Edward, LastName=Hill, Pay=$10,200.00
+EmpId=1004, FirstName=Emmet, LastName=Gray, Pay=$750.00
+EmpId=1005, FirstName=SadSac, LastName=Jones, Pay=$1,538.46
+EmpId=1006, FirstName=Raging, LastName=Maniac, Pay=$564.80
